@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+opencv-python
+regex
+easyocr
+numpy
+python-multipart
